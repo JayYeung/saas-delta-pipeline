@@ -1,6 +1,7 @@
 env/
 extracted_frames/
 *.mp4
+*.mp3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
