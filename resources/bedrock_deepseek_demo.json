@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "title": "Fingerprint Technician - Fingerprint Capture Training",
+            "description": "This is a sample video for testing",
+            "summary": "The video provides a comprehensive training guide for Delta Airlines\u2019 Fingerprint Technicians, focusing on the process of enrolling and capturing fingerprints for security clearance purposes. The training begins with basic system access, requiring technicians to log into their Windows PC and acknowledge Delta Air Lines\u2019 Acceptable Use Policy, which outlines the rules for using corporate resources and emphasizes user monitoring protocols. After logging in, technicians must verify the DaonCapture Biometric Support Service is running, identifiable by a black square icon with a yellow X in the system tray. This service, which requires explicit permission to run, is crucial for the fingerprinting process. The core of the process involves accessing the Transportation Security Clearinghouse (TSC) website through a dedicated shortcut. New users receive temporary credentials via their Delta email address and must create a password meeting specific complexity requirements. Once logged in, technicians can begin the enrollment process for new applicants. The enrollment procedure starts with entering basic applicant information - last name, first name, and date of birth - to check for existing records. If no match is found, technicians proceed to create a new applicant profile, inputting comprehensive information including biographic details, citizenship status, contact information, and relevant documents through various tabs in the interface. After submitting the applicant\u2019s information, technicians access the \u201cWork Queue\u201d to process applicants awaiting fingerprint capture. Using the \u201cLive Scan\u201d option, they connect to a Crossmatch device to capture the applicant\u2019s fingerprints. The system provides a detailed interface for marking any amputated or unprintable fingers and guides technicians through the systematic capture of prints from both hands and thumbs. The process concludes when all viable fingerprints are successfully captured and the technician clicks \u201cComplete\u201d to finalize the submission.",
+            "video_path": "/Fingerprint Technician - Fingerprint Capture Training.mp4",
+            "timestamp": "2025-03-20T18:58:41.467304",
+            "labels": [
+                "Airport Security",
+                "Identity And Access Management",
+                "Physical Security",
+                "Situational Awareness",
+                "Workplace Safety"
+            ]
+        },
+        {
+            "title": "CCT - Privacy and Data Protection",
+            "description": "This is a sample video for testing",
+            "summary": "The video showcases a learning experience on privacy and data protection, specifically tailored for Delta Airlines employees. It begins by introducing the course structure, which involves navigating decision-based scenarios where correct choices lead to progress, while incorrect choices provide additional information. The course covers various aspects of data handling, including identifying personal data, understanding individual data privacy rights, and respecting customer privacy. The video presents interactive activities and quizzes that test the viewer's knowledge on topics such as classifying data types, responding to data requests, and handling customer information. It features examples from Delta's operations, such as aircraft maintenance records, company addresses, and SkyMiles account profiles. Throughout the course, the importance of respecting individual data privacy rights is emphasized, with examples of employees who appropriately handle customer data requests. The video also discusses Delta's approach to managing vendor relationships and mitigating information security risks when working with third-party vendors. The learning experience concludes with a \"Well Done\" message, indicating the completion of the course. The final frame displays the Delta Career Portal, showcasing the user's completed assignments and available courses related to privacy and data protection.",
+            "video_path": "/CCT - Privacy and Data Protection.mp4",
+            "timestamp": "2025-03-20T18:58:41.467304",
+            "labels": [
+                "Data & Records Management",
+                "Data Management",
+                "Regulatory Compliance",
+                "Risk Management",
+                "Cyber Security Strategy"
+            ]
+        },
+        {
+            "title": "Fire Extinguisher Safety",
+            "description": "This is a sample video for testing",
+            "summary": "The video is an online training module titled \"Fire Extinguisher Safety\" from the SuccessFactors Learning platform. It provides comprehensive information and instructions on proper fire extinguisher usage, safety considerations, and procedures for responding to fires in a workplace setting. The module covers topics such as identifying different types of fire extinguishers, understanding their labels and classifications, following the four-step process for extinguishing fires (pull, aim, squeeze, sweep), and recognizing various types of fires like Class A (ordinary combustibles), Class B (flammable liquids), and Class C (electrical fires). The training emphasizes the importance of using the appropriate extinguisher for the specific fire type and highlights that fire extinguishers should only be used for small fires. The module also includes interactive elements like quizzes and assessments to test the viewer's knowledge on fire safety and extinguisher usage.",
+            "video_path": "/Fire Extinguisher Safety - AFIRE100.mp4",
+            "timestamp": "2025-03-20T18:58:41.467304",
+            "labels": [
+                "Workplace Safety",
+                "Safety Training",
+                "Emergency Procedures",
+                "Compliance Training",
+                "Safety Assurance"
+            ]
+        },
+        {
+            "title": "Delta Incident Reporting training course video capture (NO AUDIO)",
+            "description": "This is a sample video for testing",
+            "summary": "The video is a training course on corporate safety and incident investigation, specifically for Delta Airlines employees. It covers various aspects of conducting proper investigations, including identifying types of incidents that require investigation, determining the responsibilities of different divisions, gathering preliminary injury information, conducting interviews with witnesses, taking photographs to document evidence, measuring damage, and analyzing contributing factors. The course provides detailed explanations, examples, and interactive assessments to ensure understanding of the investigative process. It emphasizes the importance of following proper procedures, maintaining accuracy, and implementing corrective actions to prevent future incidents. The video also includes a certificate of completion for an individual named Prasanna Salvi who has completed the \"Corporate Safety: Incident Investigation\" course.",
+            "video_path": "/Delta Incident Reporting training course video capture (NO AUDIO).mp4",
+            "timestamp": "2025-03-20T18:58:41.467304",
+            "labels": [
+                "Investigation",
+                "Safety Assurance",
+                "Workplace Safety",
+                "Emergency Procedures",
+                "Root Cause Analysis"
+            ]
+        },
+        {
+            "title": "Corporate Safety - Incident Investigation",
+            "description": "This is a sample video for testing",
+            "summary": "The video is an online training course on corporate safety incident investigation conducted by Delta Airlines. It covers the importance of investigating incidents to determine root causes and prevent future occurrences. The course outlines the steps involved in a proper investigation, including gathering preliminary information, conducting interviews with witnesses, taking photographs, creating diagrams, and analyzing contributing factors. The instructor explains that investigations should be conducted with prevention in mind, not to place blame. They emphasize the need to document all facts and evidence, such as injuries, damage, and witness statements. The course highlights the \"human factors dirty dozen\" - common contributing factors like fatigue, stress, and lack of knowledge - and stresses the importance of identifying and addressing these factors through corrective actions. Throughout the video, various tools and resources are introduced, including forms for reporting incidents, guidelines for witness interviews, and software for creating scene diagrams. The course also provides examples of actual incident investigation photographs and scenarios to illustrate the concepts discussed. Ultimately, the goal of the course is to equip employees with the knowledge and skills necessary to conduct thorough and effective incident investigations, leading to improved safety practices within the organization.",
+            "video_path": "Corporate Safety - Incident Investigation.mp4",
+            "timestamp": "2025-03-20T18:58:41.467304",
+            "labels": [
+                "Investigation",
+                "Safety Assurance",
+                "Workplace Safety",
+                "Root Cause Analysis",
+                "Emergency Procedures"
+            ]
+        },
+        {
+            "title": "Interview Skills For Hiring Managers",
+            "description": "This is a sample video for testing",
+            "summary": "The video is a training course titled \"Interview Skills for Hiring Managers\" offered by Delta Airlines. It covers various aspects of conducting effective interviews, including understanding the importance of interviews in the hiring process, different types of interview formats like structured and behavioral-based interviews, and the STAR format used by Delta. The course explains how to structure interviews, use probing questions to gather more information from candidates, document candidate responses accurately, score interviews properly, and build partnerships with candidates during the interview process. It also provides tips on preparing for interviews, such as reviewing materials, determining the interview format, and avoiding biases. The course includes knowledge checks, sample questions, and scenarios to test the viewer's understanding of the concepts covered.",
+            "video_path": "/Interview Skills For Hiring Managers.mp4",
+            "timestamp": "2025-03-20T18:58:41.467304",
+            "labels": [
+                "Talent Acquisition",
+                "Recruitment Planning",
+                "Recruitment Strategies"
+            ]
+        },
+        {
+            "title": "Information Security Awareness - Standard (Recurrent)",
+            "description": "This is a sample video for testing",
+            "summary": "The video is an online training course titled \"Information Security Awareness - Standard (Recurrent)\" offered by Delta Airlines. It begins with an introduction by Debbie Wheeler, Delta's chief information security officer, who welcomes the viewer and explains the importance of protecting information assets and adhering to Delta's code of ethics. The course covers various aspects of cybersecurity awareness, including social engineering techniques like phishing emails and pretexting, password security best practices, safe web browsing guidelines, and how to detect and report security incidents. It provides examples and scenarios to illustrate these concepts. The course emphasizes that protecting confidential, sensitive, and personal information is everyone's responsibility within Delta. It outlines the steps to follow when reporting suspicious activities or security incidents, such as contacting management and the IT service desk. Throughout the course, the Delta logo and branding are prominently displayed, reinforcing the airline's commitment to information security awareness. The course concludes with a message from a Delta executive, highlighting the importance of annual compliance training in maintaining Delta's values-based culture and ethical business practices.",
+            "video_path": "/Information Security Awareness - Standard (Recurrent).mp4",
+            "timestamp": "2025-03-20T18:58:41.467304",
+            "labels": [
+                "Cyber Risk",
+                "Cyber Security Strategy",
+                "Cyber Threat Intelligence",
+                "Incident Response",
+                "Regulatory Compliance"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Fingerprint Technician - Fingerprint Capture Training",
+    "description": "This is a sample video for testing",
+    "summary": "The video provides a comprehensive training guide for Delta Airlines\u2019 Fingerprint Technicians, focusing on the process of enrolling and capturing fingerprints for security clearance purposes. The training begins with basic system access, requiring technicians to log into their Windows PC and acknowledge Delta Air Lines\u2019 Acceptable Use Policy, which outlines the rules for using corporate resources and emphasizes user monitoring protocols. After logging in, technicians must verify the DaonCapture Biometric Support Service is running, identifiable by a black square icon with a yellow X in the system tray. This service, which requires explicit permission to run, is crucial for the fingerprinting process. The core of the process involves accessing the Transportation Security Clearinghouse (TSC) website through a dedicated shortcut. New users receive temporary credentials via their Delta email address and must create a password meeting specific complexity requirements. Once logged in, technicians can begin the enrollment process for new applicants. The enrollment procedure starts with entering basic applicant information - last name, first name, and date of birth - to check for existing records. If no match is found, technicians proceed to create a new applicant profile, inputting comprehensive information including biographic details, citizenship status, contact information, and relevant documents through various tabs in the interface. After submitting the applicant\u2019s information, technicians access the \u201cWork Queue\u201d to process applicants awaiting fingerprint capture. Using the \u201cLive Scan\u201d option, they connect to a Crossmatch device to capture the applicant\u2019s fingerprints. The system provides a detailed interface for marking any amputated or unprintable fingers and guides technicians through the systematic capture of prints from both hands and thumbs. The process concludes when all viable fingerprints are successfully captured and the technician clicks \u201cComplete\u201d to finalize the submission.",
+    "video_path": "Fingerprint Technician - Fingerprint Capture Training.mp4",
+    "timestamp": "2025-03-20T18:58:41.467304",
+    "labels": [
+        "Airport Security",
+        "Data & Records Management",
+        "Federal Aviation Regulations",
+        "Identity And Access Management",
+        "Incident Response",
+        "Physical Security",
+        "Regulatory Compliance",
+        "Regulatory Requirements",
+        "Workplace Safety"
+    ]
+}
