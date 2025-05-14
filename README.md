@@ -24,8 +24,8 @@ The core logic lives in **`pipeline.py`**, powered by OpenAI models, MoviePy, Op
 ### 2. Clone and install
 
 ```bash
-git clone https://github.com/<your-org>/<repo>.git
-cd <repo>
+git clone https://github.com/JayYeung/saas-delta-pipeline.git
+cd saas-delta-pipeline
 
 # create isolated environment
 python -m venv .venv
